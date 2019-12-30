@@ -1,0 +1,17 @@
+
+.TopHeader
+{
+    width: 100%;
+    height: 95px;
+    background-color: #101429;
+    display: flex;
+    justify-content: space-around;
+}
+
+.TopHeader img{
+    width: 35px;
+}
+
+.TopHeader i{
+    margin-top: 31px;
+}

@@ -1,0 +1,23 @@
+.CardProductionLineDetails
+{
+    background-color: white;
+    border-bottom: 1px solid white;
+    box-shadow: 1px 1px 1px #ccc;
+}
+
+.CardProductionLineDetails .CardProductionLineDetails-machineDetails
+{
+    display: flex;
+    justify-content: center;
+}
+
+.CardProductionLineDetails .CardProductionLineDetails-machineSection
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.el-progress-circle{
+    height: 50px !important;
+    width: 50px !important;
+}
